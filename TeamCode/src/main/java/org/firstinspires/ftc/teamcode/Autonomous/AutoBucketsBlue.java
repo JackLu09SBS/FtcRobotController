@@ -4,8 +4,11 @@ import static org.firstinspires.ftc.robotcore.external.BlocksOpModeCompanion.gam
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.hardware.Servo;
 import org.firstinspires.ftc.robotcontroller.Control.PID_Controller;
-
+import com.arcrobotics.ftclib.trajec
 
 public class AutoBucketsBlue {
-    public void generate {}
+    public void generateTrajectory()
+    {
+        var sideStart=
+    }
 }
