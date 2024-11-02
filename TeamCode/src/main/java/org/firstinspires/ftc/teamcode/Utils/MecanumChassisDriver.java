@@ -13,9 +13,6 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorEx;
 import com.qualcomm.robotcore.hardware.IMU;
 
-import org.firstinspires.ftc.teamcode.Utils.AdvancedPidController;
-import org.firstinspires.ftc.teamcode.Utils.DepthCamera;
-
 @Config
 public class ChassisDriver {
     public static double MIN_POWER_OFFSET = 0.14;
